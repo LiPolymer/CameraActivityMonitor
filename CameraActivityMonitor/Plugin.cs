@@ -1,5 +1,7 @@
 ﻿using CameraActivityMonitor.Models;
 using CameraActivityMonitor.Services;
+using CameraActivityMonitor.ViewModels;
+using CameraActivityMonitor.Views;
 using ClassIsland.Core;
 using ClassIsland.Core.Abstractions;
 using ClassIsland.Core.Attributes;
