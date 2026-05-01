@@ -1,8 +1,9 @@
+using CameraActivityMonitor.ViewModels;
 using ClassIsland.Core.Abstractions.Controls;
 using ClassIsland.Core.Attributes;
 using ClassIsland.Core.Enums.SettingsWindow;
 
-namespace CameraActivityMonitor;
+namespace CameraActivityMonitor.Views;
 
 [SettingsPageInfo(
     "CameraActivityMonitorSettingsPage",   // 设置页面 id

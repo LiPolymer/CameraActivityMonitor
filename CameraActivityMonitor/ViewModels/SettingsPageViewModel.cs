@@ -4,7 +4,7 @@ using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using System.Collections.ObjectModel;
 
-namespace CameraActivityMonitor
+namespace CameraActivityMonitor.ViewModels
 {
     public partial class SettingsPageViewModel : ObservableObject
     {
