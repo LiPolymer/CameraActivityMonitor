@@ -1,4 +1,5 @@
-# CameraActivityMonitor (摄像头状态监控)
+# CameraActivityMonitor
+## 摄像头状态监控
 
 这是一个为 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 编写的插件。
 本插件主要用于监控系统中摄像头的使用状态（是否正在推流），并在摄像头被占用或关闭时提供状态反馈，允许通过 ClassIsland 规则与其他功能进行联动。
