@@ -47,4 +47,4 @@
 
 ## 📄 许可证 (License)
 
-本项目采用 [AGPLv3]() 许可证。
+本项目采用 [AGPLv3](https://github.com/LiuYan-xwx/CameraActivityMonitor/blob/master/LICENSE.txt) 许可证。
