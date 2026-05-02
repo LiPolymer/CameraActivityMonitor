@@ -41,6 +41,10 @@
 
 欢迎提交 Issue 和 Pull Request 来帮助完善此项目！
 
+## 致谢
+本项目使用了以下第三方库：
+- [CsWin32](https://github.com/microsoft/CsWin32) - 用于生成 Windows API 的 C# 绑定。
+
 ## 📄 许可证 (License)
 
 本项目采用 [AGPLv3]() 许可证。
