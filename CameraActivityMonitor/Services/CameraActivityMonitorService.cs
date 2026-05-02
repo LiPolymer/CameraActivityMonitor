@@ -66,7 +66,7 @@ namespace CameraActivityMonitor.Services
         {
             IsCameraInUse = inUse;
             UsageChanged?.Invoke(inUse);
-            _rulesetService.NotifyStatusChanged();
+            Dispatcher.UIThread.Post(() => _rulesetService.NotifyStatusChanged());
         }
 
         public void Dispose()
