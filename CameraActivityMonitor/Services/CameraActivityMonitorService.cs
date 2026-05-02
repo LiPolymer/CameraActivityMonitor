@@ -1,4 +1,5 @@
-﻿using CameraActivityMonitor.Helpers;
+﻿using Avalonia.Threading;
+using CameraActivityMonitor.Helpers;
 using CameraActivityMonitor.Models;
 using ClassIsland.Core.Abstractions.Services;
 
